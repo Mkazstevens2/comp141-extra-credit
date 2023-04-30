@@ -1,0 +1,4 @@
+ls.txt
+main.sh
+pwd.txt
+read.txt
