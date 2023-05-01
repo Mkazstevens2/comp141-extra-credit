@@ -1,4 +1,12 @@
+copy.txt
+date.txt
 ls.txt
 main.sh
+mount.txt
+netstat.txt
+permissions.txt
+process.txt
 pwd.txt
 read.txt
+regex.txt
+textcount.txt
