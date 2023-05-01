@@ -1,4 +1,4 @@
   PID TTY           TIME CMD
-67439 ttys000    0:00.05 -zsh
-67534 ttys000    0:00.01 /bin/bash ./main.sh
-67544 ttys000    0:00.00 head -n 5
+67439 ttys000    0:00.06 -zsh
+67627 ttys000    0:00.01 /bin/bash ./main.sh
+67637 ttys000    0:00.00 head -n 5
