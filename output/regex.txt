@@ -6,8 +6,7 @@ cat main.sh > read.txt
 pwd > pwd.txt
 ls > ls.txt
 cp main.sh copy.txt
-alias printdate="date"
-printdate > date.txt
+date > date.txt
 wc -w main.sh | awk '{print $1}' > textcount.txt
 ps | head -n 5 > process.txt
 ifconfig | head -n 5 > netstat.txt
